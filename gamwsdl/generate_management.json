@@ -1,0 +1,159 @@
+{
+  "version": "v0.1",
+  "services": [
+    {
+      "name": "ActivityGroupService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/ActivityGroupService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/activitygroup",
+      "lastUpdatedAt": "2024-07-30T00:53:57.091863Z"
+    },
+    {
+      "name": "ActivityService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/ActivityService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/activity",
+      "lastUpdatedAt": "2024-07-30T00:53:57.485171Z"
+    },
+    {
+      "name": "AudienceSegmentService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/AudienceSegmentService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/audiencesegment",
+      "lastUpdatedAt": "2024-07-30T00:53:57.82032Z"
+    },
+    {
+      "name": "CdnConfigurationService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/CdnConfigurationService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/cdnconfiguration",
+      "lastUpdatedAt": "2024-07-30T00:53:58.177229Z"
+    },
+    {
+      "name": "CompanyService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/CompanyService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/company",
+      "lastUpdatedAt": "2024-07-30T00:53:58.567361Z"
+    },
+    {
+      "name": "CreativeService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/CreativeService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/creative",
+      "lastUpdatedAt": "2024-07-30T00:53:58.97299Z"
+    },
+    {
+      "name": "CustomTargetingService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/CustomTargetingService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/customtargeting",
+      "lastUpdatedAt": "2024-07-30T00:53:59.412334Z"
+    },
+    {
+      "name": "InventoryService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/InventoryService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/inventory",
+      "lastUpdatedAt": "2024-07-30T00:53:59.802001Z"
+    },
+    {
+      "name": "LineItemService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/LineItemService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/lineitem",
+      "lastUpdatedAt": "2024-07-30T00:54:00.288133Z"
+    },
+    {
+      "name": "LineItemCreativeAssociationService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/LineItemCreativeAssociationService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/lineitemcreativeassociation",
+      "lastUpdatedAt": "2024-07-30T00:54:00.683588Z"
+    },
+    {
+      "name": "OrderService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/OrderService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/order",
+      "lastUpdatedAt": "2024-07-30T00:54:01.170909Z"
+    },
+    {
+      "name": "ReportService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202402/ReportService?wsdl",
+      "generateDestination": "pkg/gam/services/v202402/report",
+      "lastUpdatedAt": "2024-07-30T00:54:01.568334Z"
+    },
+    {
+      "name": "AudienceSegmentService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/AudienceSegmentService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/audiencesegment",
+      "lastUpdatedAt": "2024-07-30T00:54:01.931733Z"
+    },
+    {
+      "name": "CdnConfigurationService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/CdnConfigurationService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/cdnconfiguration",
+      "lastUpdatedAt": "2024-07-30T00:54:02.261042Z"
+    },
+    {
+      "name": "CompanyService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/CompanyService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/company",
+      "lastUpdatedAt": "2024-07-30T00:54:02.614963Z"
+    },
+    {
+      "name": "CreativeService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/CreativeService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/creative",
+      "lastUpdatedAt": "2024-07-30T00:54:03.032796Z"
+    },
+    {
+      "name": "CustomTargetingService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/CustomTargetingService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/customtargeting",
+      "lastUpdatedAt": "2024-07-30T00:54:03.399804Z"
+    },
+    {
+      "name": "InventoryService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/InventoryService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/inventory",
+      "lastUpdatedAt": "2024-07-30T00:54:03.774174Z"
+    },
+    {
+      "name": "LineItemService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/LineItemService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/lineitem",
+      "lastUpdatedAt": "2024-07-30T00:54:04.232016Z"
+    },
+    {
+      "name": "LineItemCreativeAssociationService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/LineItemCreativeAssociationService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/lineitemcreativeassociation",
+      "lastUpdatedAt": "2024-07-30T00:54:04.665994Z"
+    },
+    {
+      "name": "OrderService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/OrderService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/order",
+      "lastUpdatedAt": "2024-07-30T00:54:05.10039Z"
+    },
+    {
+      "name": "ReportService",
+      "version": "v0.1",
+      "url": "https://ads.google.com/apis/ads/publisher/v202405/ReportService?wsdl",
+      "generateDestination": "pkg/gam/services/v202405/report",
+      "lastUpdatedAt": "2024-07-30T00:54:05.514726Z"
+    }
+  ]
+}

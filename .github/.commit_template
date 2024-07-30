@@ -1,0 +1,29 @@
+
+
+# ==== Format ====
+# :emoji: Subject Commit Overview #Issue Number
+#
+# Commit body...
+
+# ==== Emojis ====
+# 🐛  :bug: Bugfix
+# 👌  :ok_hand: Code review changes
+# ✨  :sparkles: New feature
+# 🚧  :construction: Work in progress
+# ⚡️  :zap: Improve performance
+# 🎨  :art: Improve structure / format of the code.
+# ♻️  :recycle: Refactor code
+# 📚  :books: Documentation
+# ✅  :white_check_mark: Adding a test
+# 🧪  :test_tube: Add a failing test
+# 🔥  :fire: Removing code/files
+# 👷  :construction_worker: Add or update CI build system
+# 💚  :green_heart: Fix CI Build
+# 💥  :boom: Breaking changes
+# 👕  :shirt: Lint
+# 👷  :construction_worker: Adding CI build system
+# 🔧  :wrench: Configuration files
+# ➕  :heavy_plus_sign: Add a dependency
+# ⬆️  :arrow_up: Upgrading dependencies
+# ⬇️  :arrow_down: Downgrading dependencies
+# ⚰️  :coffin: Remove dead code.
